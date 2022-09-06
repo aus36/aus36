@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aus36
-- 👀 I’m interested in cars, computer science, and mountain biking
-- 🌱 I’m currently learning C++ and Python
+- 👀 I’m interested in sofware engineering, cars, and mountain biking
+- 🌱 I’m currently learning and Python and Web Development
 - 💞️ I’m looking to collaborate on university, hackathon, and personal projects.
 - 📫 How to reach me: email - austin.hale36@gmail.com or on LinkedIn at www.linkedin.com/in/austinhale36
 
