@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aus36, my name is Austin Hale
 - 🏫 I am an alumni of Texas A&M University - Commerce at RELLIS
 - 👀 I’m interested in sofware engineering, project management, and machine learning
-- 🌱 I’m currently learning mobile development with swift and Xcode
+- 🌱 I’m currently building a web application to help university students prep for interviews
 - 💞️ I’m looking to collaborate on university, hackathon, and personal projects.
 - 📫 How to reach me: email - austin.hale36@gmail.com or on LinkedIn at www.linkedin.com/in/austinhale36
 
