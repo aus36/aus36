@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+World!+Welcome+to+my+GitHub.)](https://git.io/typing-svg)
-![](https://komarev.com/ghpvc/?username=aus36)
 
 - 👋 Hi, I’m @aus36, my name is Austin Hale
 - 🏫 I am an alumnus of Texas A&M University - Commerce at RELLIS
