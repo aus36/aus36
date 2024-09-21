@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @aus36, my name is Austin Hale
 - 🏫 I hold a B.S. in Computer Science from Texas A&M Commerce, and an A.S. in Engineering from Blinn College
 - 👀 I’m interested in sofware engineering, entrepreneurship, and investing
-- 🌱 I build software solutions for businesses - if you have a business need, reach out to austin@abhtech.com
+- 🌱 I build software solutions for businesses - if you have a business need, reach out to austin@abhtechnical.com
 - 📫 How to reach me: email - austin.hale36@gmail.com or on LinkedIn at www.linkedin.com/in/austinhale36
 <!---
 aus36/aus36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
