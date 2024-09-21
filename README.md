@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @aus36, my name is Austin Hale
 - 🏫 I am an alumnus of Texas A&M University - Commerce at RELLIS
 - 👀 I’m interested in sofware engineering, project management, and mobile development
-- 🌱 I’m currently consulting - if you have a software-related business need, feel free to reach out!
+- 🌱 I’m currently consulting - if you have a software-related business need reach out to austin@abhtech.com
 - 📫 How to reach me: email - austin.hale36@gmail.com or on LinkedIn at www.linkedin.com/in/austinhale36
 <!---
 aus36/aus36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
